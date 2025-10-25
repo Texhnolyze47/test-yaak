@@ -1,0 +1,14 @@
+type: workspace
+model: workspace
+id: wk_VBGbYsiwUS
+createdAt: 2025-10-25T07:02:43.731169867
+updatedAt: 2025-10-25T07:02:43.731171104
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: test-sync
+encryptionKeyChallenge: null
+settingValidateCertificates: true
+settingFollowRedirects: true
+settingRequestTimeout: 0
