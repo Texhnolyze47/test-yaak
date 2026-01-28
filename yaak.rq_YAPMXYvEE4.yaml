@@ -2,7 +2,7 @@ type: http_request
 model: http_request
 id: rq_YAPMXYvEE4
 createdAt: 2025-10-25T07:03:08.378084208
-updatedAt: 2025-10-25T07:03:08.378085295
+updatedAt: 2026-01-28T01:42:27.488227171
 workspaceId: wk_VBGbYsiwUS
 folderId: null
 authentication: {}
@@ -12,7 +12,7 @@ bodyType: null
 description: ''
 headers: []
 method: GET
-name: ''
+name: test 2
 sortPriority: -1761375788376.0
 url: ''
 urlParameters: []
